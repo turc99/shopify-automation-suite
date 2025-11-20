@@ -1,2 +1,2 @@
-# shopify-automation-suite
+# Shopify-Automation-Suite
 Automated Shopify fulfilment pipeline: orders → warehouse → customer
